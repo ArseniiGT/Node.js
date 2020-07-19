@@ -1,0 +1,33 @@
+{
+  "name": "arseniigg",
+  "version": "1.0.0",
+  "description": "greengeeks by greenatom",
+  "main": "app.js",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.19.0",
+    "connect": "^3.7.0",
+    "connect-assetmanager": "^0.0.24",
+    "connect-assetmanager-handlers": "^0.0.18",
+    "connect-mongo": "^3.2.0",
+    "dotenv": "^5.0.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "moment": "^2.27.0",
+    "mongoose": "^5.9.25",
+    "mongoose-autopopulate": "^0.12.2",
+    "multer": "^1.4.2",
+    "reques": "^0.0.1-security",
+    "request": "^2.88.2",
+    "sharp": "^0.25.4",
+    "showdown": "^1.9.1",
+    "static-asset": "^0.6.0",
+    "transliter": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arseniy rozhkov",
+  "license": "ISC"
+}
